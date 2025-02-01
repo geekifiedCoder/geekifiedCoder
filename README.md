@@ -13,6 +13,9 @@ I am always striving to learn and improve, working hard to uncover the depths of
 Feel free to reach out to me via email:
 **[geekifiedcoder@gmail.com](mailto:geekifiedcoder@gmail.com)**
 
+## Course Contents
+- [Things to know as good software developer](https://github.com/geekifiedCoder/Things-to-know-as-good-software-developer)
+
 <!---
 geekifiedCoder/geekifiedCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
